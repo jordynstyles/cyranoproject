@@ -6,4 +6,13 @@
             <ditaval href="../adult.ditaval"/>
         </profile>
     </context>
+    <publication id="pdf" transtype="pdf-css-html5"/>
+    <deliverable id="d-Cyrano_de_Bergerac_for_Adults-1730597931053" name="Cyrano de Bergerac for Adults">
+        <context idref="wCdLqrnLPRBSNSp"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf">
+            <param href="cf://templates/Oxygen" name="pdf.publishing.template"/>
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
+        </publication>
+    </deliverable>
 </project>
