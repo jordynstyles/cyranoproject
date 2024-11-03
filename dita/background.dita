@@ -3,8 +3,12 @@
 <topic id="topic_yqv_5n3_gdc">
     <title>Background</title>
     <body>
-        <section id="section_dyl_k43_gdc">
+        <section id="section_dyl_k43_gdc" audience="adult">
             <title>History</title>
+            <p/>
+        </section>
+        <section id="section_yrd_gp3_gdc" audience="child">
+            <title>In the beginning...</title>
             <p/>
         </section>
     </body>
