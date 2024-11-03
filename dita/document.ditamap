@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-  <title>Cyrano de Bergerac</title>
-  <topicref href="background.dita" />
-  <topicref href="act-1.dita" />
-  <topicref href-"act-2.dita" />
-  <topicref href-"act-3.dita" />
-  <topicref href-"act-4.dita" />
-  <topicref href-"act-5.dita" />
-  <topicref href-"conclusion.dita" />
+    <title>document.ditamap</title>
+    <topicref href="background.dita"/>
+    <topicref href="act-1.dita"/>
+    <topicref href="act-2.dita"/>
+    <topicref href="act-3.dita"/>
+    <topicref href="act-4.dita"/>
+    <topicref href="act-5.dita"/>
+    <topicref href="conclusion.dita"/>
 </map>
